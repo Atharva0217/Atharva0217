@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Atharva0217
-- 👀 I’m interested in Ethical Hacking
+- 👀 I’m interested in Web Development and Full Stack
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I’m looking to collaborate on Web Development and Coding
+  
 - 📫 How to reach me bhorathu1702@gmail.com
 
 <!---
